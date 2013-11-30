@@ -1,0 +1,20 @@
+﻿Hello, {{Customer.FirstName}}
+{{#newline}}
+{{#newline}}
+{{#with Customer.Order}}
+{{#if LineItems}}
+<div>Here is a summary of your previous order:</div>
+{{#newline}}
+{{#newline}}
+{{#each LineItems}}
+<div>
+    {{ProductName}}: {{UnitPrice:C}} x {{Quantity}}
+{{#newline}}
+</div>
+{{/each}}
+{{#newline}}
+Your total was {{Total:C}}.
+{{#else}}
+You do not have any recent purchases.
+{{/if}}
+{{/with}}

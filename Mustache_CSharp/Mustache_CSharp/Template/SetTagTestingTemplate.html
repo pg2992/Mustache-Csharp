@@ -1,0 +1,12 @@
+﻿{{#set even}}
+{{#set something}}
+{{#each this}}
+{{#if @even}}
+Even
+{{@something}}
+{{#else}}
+{{@even}}
+Odd
+{{/if}}
+{{#set even}}
+{{/each}}
