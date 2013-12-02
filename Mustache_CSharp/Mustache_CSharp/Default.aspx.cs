@@ -86,6 +86,16 @@ namespace Mustache_CSharp
             return template;
         }
 
+        protected void lnkLogout_Click(object sender, EventArgs e)
+        {
+            lblContactInfo.Text = "";
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            //
+        }
+
         
     }
 }

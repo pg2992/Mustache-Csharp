@@ -4,3 +4,9 @@ c:\users\pgangad\documents\visual studio 2010\Projects\Mustache_CSharp\Mustache_
 c:\users\pgangad\documents\visual studio 2010\Projects\Mustache_CSharp\Mustache_CSharp\obj\Debug\ResolveAssemblyReference.cache
 c:\users\pgangad\documents\visual studio 2010\Projects\Mustache_CSharp\Mustache_CSharp\obj\Debug\Mustache_CSharp.dll
 c:\users\pgangad\documents\visual studio 2010\Projects\Mustache_CSharp\Mustache_CSharp\obj\Debug\Mustache_CSharp.pdb
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\bin\Mustache_CSharp.dll
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\bin\Mustache_CSharp.pdb
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\bin\mustache-sharp.dll
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\obj\Debug\Mustache_CSharp.dll
+D:\mustache_csharp\Mustache_CSharp\Mustache_CSharp\obj\Debug\Mustache_CSharp.pdb
